@@ -1,0 +1,15 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "e2e:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^4.0.2",
+    "cypress-keycloak-commands": "^1.1.0",
+    "cypress-wait-until": "^1.6.1",
+    "prettier": "^1.19.1"
+  }
+}
